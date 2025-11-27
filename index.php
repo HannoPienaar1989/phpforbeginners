@@ -33,12 +33,12 @@ foreach ($bussiness['categories'] as $category) {
     echo $category . "<br>";
 }
 
-funtion register($user){
-//create user record in db.
-//log user in.
-//send welcome message.
-//redirect to there new dashboard.
-}
+//funtion register($user){
+////create user record in db.
+////log user in.
+////send welcome message.
+////redirect to there new dashboard.
+//};
 
 
 $filtredBooks = array_filter($books, function ($book) {
