@@ -10,3 +10,4 @@
            <p>Now you are on the Contact Page</p>
         </div>
     </main>
+<?php require ('partials/footer.php')?>

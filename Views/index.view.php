@@ -10,3 +10,4 @@
           <p> You are now on Home Page</p>
         </div>
     </main>
+<?php require ('partials/footer.php')?>
