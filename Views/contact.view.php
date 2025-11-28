@@ -10,7 +10,3 @@
            <p>Now you are on the Contact Page</p>
         </div>
     </main>
-</div>
-
-</body>
-</html>

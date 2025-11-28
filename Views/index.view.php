@@ -10,7 +10,3 @@
           <p> You are now on Home Page</p>
         </div>
     </main>
-</div>
-
-</body>
-</html>

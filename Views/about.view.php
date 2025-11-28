@@ -10,7 +10,3 @@
            <p>Now you are on the About Page</p>
         </div>
     </main>
-</div>
-
-</body>
-</html>
